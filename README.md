@@ -1,5 +1,5 @@
 # İş Yaşamında Eşit Fırsatlar Programı 
- İş Yaşamında Eşit Fırsatlar Eğitimi kapsamında NewsAPI kullanılarak çekilen verilerde CRUD işlemleri uygulanmıştır.
+ İş Yaşamında Eşit Fırsatlar Eğitimi kapsamında Free bir API kullanılarak çekilen verilerde CRUD işlemleri uygulanmıştır.
 
 
 # 📰 News API - Makale İşleme Uygulaması
