@@ -3,7 +3,7 @@ from pprint import pprint
 
 
 # API'ye request'te bulunalım. API bize response döndürecek.
-endpoint = 'https://newsapi.org/v2/everything?q=apple&from=2025-02-27&to=2025-02-27&sortBy=popularity&apiKey=89dd9aa7cff74e17b11768cef97bbb23'
+endpoint = ''                             # API linki tırnak içerisinde yer almalıdır.
 response = get(url=endpoint)              # API'ye gidip talepte bulunacak
 
 data = response.json()              # response'u yani datayı -->  json'a dönüştürme işlemi
