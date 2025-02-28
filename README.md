@@ -16,8 +16,6 @@ NewsAPI kullanılarak haber verileri çekilir ve bu verilere **CRUD (Create, Rea
   - 🔹 **Read**: Belirli yazar veya tarih filtresiyle haberleri görüntüleme.
   - 🔹 **Update**: Mevcut haber bilgilerini güncelleme.
   - 🔹 **Delete**: Haberlerden belirli bir bilgiyi kaldırma.
-- **Kullanıcı Dostu Arayüz**: Komut satırı üzerinden etkileşimli kullanım.
-
 ---
 
 ## 🛠 **Kullanılan Teknolojiler**
