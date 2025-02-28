@@ -1,16 +1,13 @@
 # İş Yaşamında Eşit Fırsatlar Programı 
  İş Yaşamında Eşit Fırsatlar Eğitimi kapsamında Free bir API kullanılarak çekilen verilerde CRUD işlemleri uygulanmıştır.
 
-
-# 📰 News API - Makale İşleme Uygulaması
-
-Bu proje, **İş Yaşamında Eşit Fırsatlar Yapay Zeka** programı kapsamında geliştirilen bir **API tabanlı haber işleme uygulamasıdır**.  
-NewsAPI kullanılarak haber verileri çekilir ve bu verilere **CRUD (Create, Read, Update, Delete)** işlemleri uygulanabilir.
+Bu proje, **İş Yaşamında Eşit Fırsatlar** programı kapsamında geliştirilen bir **API tabanlı bir uygulamasıdır**.  
+Free API kullanılarak haber verileri çekilir ve bu verilere **CRUD (Create, Read, Update, Delete)** işlemleri uygulanabilir.
 
 ---
 
 ## 🚀 **Proje Özellikleri**
-- **API'den Haber Verisi Çekme**: NewsAPI kullanılarak popüler haber başlıkları çekilir.
+- **API'den Haber Verisi Çekme**: Free API kullanılarak popüler haber başlıkları çekilir.
 - **Veri Üzerinde CRUD İşlemleri**:
   - 🔹 **Create**: Haberlere yeni alan ekleyebilme.
   - 🔹 **Read**: Belirli yazar veya tarih filtresiyle haberleri görüntüleme.
